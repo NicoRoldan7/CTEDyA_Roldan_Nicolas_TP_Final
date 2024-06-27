@@ -1,0 +1,48 @@
+C:\Users\pp\Desktop\TPFinal\bin\Debug\net6.0-windows\tpfinal.exe
+C:\Users\pp\Desktop\TPFinal\bin\Debug\net6.0-windows\tpfinal.deps.json
+C:\Users\pp\Desktop\TPFinal\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+C:\Users\pp\Desktop\TPFinal\bin\Debug\net6.0-windows\tpfinal.dll
+C:\Users\pp\Desktop\TPFinal\bin\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\pp\Desktop\TPFinal\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.CopyComplete
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.dll
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\refint\tpfinal.dll
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.pdb
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+C:\Users\pp\Desktop\TPFinal\obj\Debug\net6.0-windows\ref\tpfinal.dll
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\bin\Debug\net6.0-windows\tpfinal.exe
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\bin\Debug\net6.0-windows\tpfinal.deps.json
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\bin\Debug\net6.0-windows\tpfinal.runtimeconfig.json
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\bin\Debug\net6.0-windows\tpfinal.dll
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\bin\Debug\net6.0-windows\tpfinal.pdb
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\bin\Debug\net6.0-windows\TextFieldParserStandard.dll
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.AssemblyReference.cache
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.Form1.resources
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.Form2.resources
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.Consultas.resources
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.Inicio.resources
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.ListItem.resources
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.Properties.Resources.resources
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.GenerateResource.cache
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfoInputs.cache
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.AssemblyInfo.cs
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.CoreCompileInputs.cache
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.csproj.CopyComplete
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.dll
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\refint\tpfinal.dll
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.pdb
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\tpfinal.genruntimeconfig.cache
+D:\Facu Ingenieria\Cursada 2024\1er Cuatrimestre\Complejidad temporal, estructuras de datos y algoritmos\TP Final\TPFinal\obj\Debug\net6.0-windows\ref\tpfinal.dll

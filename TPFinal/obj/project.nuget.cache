@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9fzBdgfFFB99D0+uLsAteFljTqlP68W1T4NyPaHdPh/x0JhG+c5epgzGBaSOygRefzqY41vnXFuI+2LhtwGzg==",
+  "success": true,
+  "projectFilePath": "D:\\Facu Ingenieria\\Cursada 2024\\1er Cuatrimestre\\Complejidad temporal, estructuras de datos y algoritmos\\TP Final\\TPFinal\\tpfinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicor\\.nuget\\packages\\textfieldparserstandard\\1.0.0\\textfieldparserstandard.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
